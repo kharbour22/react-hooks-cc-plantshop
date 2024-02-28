@@ -41,6 +41,60 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": "asd",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "0.03",
+      "id": 12
+    },
+    {
+      "name": "sadas",
+      "image": "http://localhost:3000/images/aloe.jpg",
+      "price": "0.02",
+      "id": 13
+    },
+    {
+      "name": "s",
+      "image": "http://localhost:3000/images/zz-plant.jpg",
+      "price": "0.01",
+      "id": 14
+    },
+    {
+      "name": "ssss",
+      "image": "http://localhost:3000/images/pilea.jpg",
+      "price": "0.02",
+      "id": 15
+    },
+    {
+      "name": "sdfsa",
+      "image": "http://localhost:3000/images/pothos.jpg",
+      "price": "0.05",
+      "id": 16
+    },
+    {
+      "name": "name",
+      "image": "image",
+      "price": "price",
+      "id": 17
+    },
+    {
+      "name": "eeeeb",
+      "image": "http://localhost:3000/images/jade.jpg",
+      "price": "0.01",
+      "id": 18
     }
   ]
 }
